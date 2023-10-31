@@ -25,7 +25,7 @@ To get started with the Artist Social Network Visualization project, follow thes
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/artist-social-network.git
+   git clone https://github.com/markow2010/Artist-Social-Network-Visualization.git
    ```
 
 2. Navigate to the project directory:
